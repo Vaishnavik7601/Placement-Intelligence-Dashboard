@@ -223,8 +223,6 @@ Top Predictor    : Communication Skills (27.7%)
 ## Author
 
 **Name:** Vaishnavi Kenchangoudar 
-**Degree:** Bachelor of Computer Applications (BCA)  
-**Year:** Final Year - 2026    
 
 ---
 
