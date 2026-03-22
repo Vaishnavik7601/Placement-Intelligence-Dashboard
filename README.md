@@ -3,6 +3,8 @@
 A complete Data Analytics and Machine Learning project analyzing placement factors for BCA/MCA/CS students.
 
 ---
+Live App: https://placement-intelligence-dashboard-zah6gzty5eenfaj6na7ebp.streamlit.app/
+
 
 ## Project Overview
 
